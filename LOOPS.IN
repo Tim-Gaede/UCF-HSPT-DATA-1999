@@ -1,0 +1,22 @@
+20
+ORANGE
+APPLE
+BANANA
+LETTUCE
+PLUM
+B
+BBBBBBBBBBBB
+O
+OOOOOOOOOOOO
+Y
+YYYYYYYYYYYY
+ZYXWV
+UTSRQP
+ONMLKJ
+IHGFEDCBA
+ABLEBOPPER
+MINE
+R
+DQ
+OQDPR
+DON'T PROCESS THIS LINE OR YOU'LL BE SORRY. Not only does it have non-fruitname characters, it also happens to be fairly long. It might overflow any sort of built-in string and cause your program to generate too much output. That would not be a gOOd thing, because then you'd have to fix it and submit again. DARN!

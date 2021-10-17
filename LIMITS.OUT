@@ -1,0 +1,11 @@
+The product of [3..18] and [1..70] is limited to the range [3..1260].
+The product of [32..36] and [5..7] is limited to the range [160..252].
+The product of [1..99] and [1..99] is limited to the range [1..9801].
+The product of [98..99] and [98..99] is limited to the range [9604..9801].
+The product of [1..2] and [1..2] is limited to the range [1..4].
+The product of [1..99] and [1..2] is limited to the range [1..198].
+The product of [1..2] and [1..99] is limited to the range [1..198].
+The product of [98..99] and [1..99] is limited to the range [98..9801].
+The product of [50..90] and [10..40] is limited to the range [500..3600].
+The product of [18..69] and [42..88] is limited to the range [756..6072].
+The product of [4..5] and [15..25] is limited to the range [60..125].
